@@ -1,0 +1,51 @@
+baseURL: "https://cybersasquatch.io"
+title: "CyberSasquatch"
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 5
+
+params:
+  defaultTheme: dark
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  customCSS:
+    - css/custom.css
+  profileMode:
+    enabled: true
+    title: "CyberSasquatch"
+    subtitle: "Cybersecurity generalist with roots in red team, blue team, GRC. Former life in investment banking and tech sales. Tech curious. Occasional grass toucherer. I've worn a lot of hats, and I still have more to try."
+    imageUrl: "/squatch_fixed.jpg"
+    buttons:
+      - name: Resume
+        url: /resume/
+      - name: Homelab
+        url: /homelab/
+      - name: Blog
+        url: /posts/
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/marcus-a-handy-4a19764/"
+
+menu:
+  main:
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 10
+    - identifier: homelab
+      name: Homelab
+      url: /homelab/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 30
