@@ -78,8 +78,8 @@ Information Technology & Security Professional with experience across cybersecur
 
 ## Additional Experience
 
-- **TriMech (now C Spire)** — Tech Sales Manager (2017–2019): Exceeded sales quotas by 148% in the first year, specializing in technology solutions.
-- **TekLinks** — Technology Sales Manager (2015–2017): Sold complex IT solutions in FDA, PCI, and HIPAA-compliant industries.
+- **TriMech** — Tech Sales Manager (2017–2019): Exceeded sales quotas by 148% in the first year, specializing in technology solutions.
+- **TekLinks (now C Spire)** — Technology Sales Manager (2015–2017): Sold complex IT solutions in FDA, PCI, and HIPAA-compliant industries.
 - **Founders Investment Banking** — Associate (2010–2013): Managed merger and acquisition transactions, contributing to $2M+ in fee revenue.
 
 ---
