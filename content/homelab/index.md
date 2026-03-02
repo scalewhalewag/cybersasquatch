@@ -16,6 +16,7 @@ layout: "single"
 - Primary machine for all homelab management
 - Used extensively for SSH access into the server and desktop
 - Runs Zed editor with local LLMs (Gemma3 12B and Qwen2.5-Coder 7B) for offline AI-assisted development, keeping code and queries secure and off third-party servers
+- Uses Claude Code in the terminal for agentic task execution across the homelab
 
 **Tailscale**
 - Zero-config VPN meshing all devices (server, desktop, Mac, and Android) into a private tailnet
