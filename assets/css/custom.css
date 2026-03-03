@@ -11,8 +11,3 @@ body {
 .cursor {
   display: none !important;
 }
-
-.profile-mode .profile img {
-  width: 188px !important;
-  height: 188px !important;
-}

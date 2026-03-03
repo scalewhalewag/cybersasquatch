@@ -24,6 +24,8 @@ params:
     title: "CyberSasquatch"
     subtitle: "Cybersecurity generalist with roots in red team, blue team, GRC. Former life in investment banking and tech sales. Tech curious. Occasional grass toucherer. I've worn a lot of hats, and I still have more to try."
     imageUrl: "/squatch_fixed.jpg"
+    imageWidth: 188
+    imageHeight: 188
     buttons:
       - name: Resume
         url: /resume/
