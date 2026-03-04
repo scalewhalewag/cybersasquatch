@@ -54,6 +54,11 @@ layout: "single"
 - Threat intelligence platform for aggregating and correlating IOCs from external feeds
 - Four containers: core MISP app, MISP modules (enrichment and import/export), MySQL (data storage), Redis (caching)
 
+**TheHive**
+- Incident investigation and case management platform
+- Integrated with MISP and Wazuh for enriched alert triage and response tracking
+- Two containers: TheHive 5 and a dedicated Elasticsearch instance
+
 ## Observability
 
 **Grafana**
