@@ -116,8 +116,6 @@ The homelab runs a fully integrated threat intelligence pipeline connecting MISP
 **KeePass**
 - Self-hosted password manager storing all homelab credentials in an encrypted database
 
-**+**
-
 **Syncthing**
 - Open-source peer-to-peer file sync tool
 - Syncs the KeePass database across all devices (server, desktop, Mac, and Android) with no cloud provider required
