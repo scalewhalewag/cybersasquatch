@@ -84,6 +84,10 @@ The homelab runs a fully integrated threat intelligence pipeline connecting MISP
 
 **Suricata**
 - Network IDS/IPS monitoring traffic for threats and suspicious activity
+- Rules updated weekly from Emerging Threats Open ruleset via suricata-update
+- MISP IOCs exported daily as native Suricata rules, enabling network-level detection of known-bad IPs and domains in raw traffic before any other rule fires
+- Noisy low-value rules suppressed to reduce alert fatigue; logs rotated daily with 7-day retention
+- Integrated with Wazuh for alert forwarding and MISP for sighting feedback
 
 **Cowrie**
 - SSH honeypot capturing and logging unauthorized access attempts on decoy ports
@@ -111,4 +115,9 @@ The homelab runs a fully integrated threat intelligence pipeline connecting MISP
 
 **KeePass**
 - Self-hosted password manager storing all homelab credentials in an encrypted database
-- Database synced across all devices using Syncthing, an open-source peer-to-peer file sync tool
+
+**+**
+
+**Syncthing**
+- Open-source peer-to-peer file sync tool
+- Syncs the KeePass database across all devices (server, desktop, Mac, and Android) with no cloud provider required

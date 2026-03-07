@@ -15,7 +15,6 @@ Information Technology & Security Professional with experience across cybersecur
 - IT — 3.5 years
 - GRC — 2.5 years
 - Regulatory Frameworks (HIPAA, NIST) — 4 years
-- Vulnerability Scanning (Tenable) — 2 years
 - Business Administration & Management — 3 years
 
 ---
